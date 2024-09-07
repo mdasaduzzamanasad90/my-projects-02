@@ -1,0 +1,110 @@
+* {
+  margin: 0px;
+}
+/* web-primari */
+.button-color {
+  color: #fd6e0a;
+}
+/* web-header_and_navber */
+header {
+  display: flex;
+  background: rgb(255, 248, 243);
+  background-image: url('../my-projects-02/images/header_bg.png');
+}
+.header-developer-img {
+  height: 570px;
+  margin: 40px 70px 23px 25px;
+}
+nav {
+  display: flex;
+}
+.nav-contan {
+  display: flex;
+  gap: 490px;
+}
+ul {
+  display: flex;
+  list-style: none;
+}
+.nav-tittle {
+  margin-top: 45px;
+  font-family: "Open Sans";
+  font-size: 45px;
+  font-weight: 800;
+}
+.nav-item {
+  margin-top: 65px;
+  margin-right: 50px;
+  color: rgb(71, 71, 71);
+  font-family: "Open Sans";
+  font-size: 19px;
+  font-weight: 400;
+}
+.nav-item-button {
+  margin-top: 50px;
+  color: rgb(255, 255, 255);
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 700;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  background: rgb(253, 110, 10);
+}
+.header-main {
+  display: flex;
+}
+.header-contan {
+  margin-top: 120px;
+}
+.header-contan-text {
+  font-weight: 500;
+  color: rgb(71, 71, 71);
+  font-family: "Open Sans";
+  font-size: 40px;
+  font-weight: 600;
+}
+.header-contan-tittle {
+  margin-bottom: 15px;
+  color: rgb(24, 24, 24);
+  font-family: "Open Sans";
+  font-size: 68px;
+  font-weight: 700;
+}
+.header-contan-dittle {
+  color: rgba(117, 117, 117, 0.894);
+  font-family: "Open Sans";
+  font-size: 15px;
+  font-weight: 400;
+  text-align: left;
+  margin-bottom: 15px;
+}
+.header-download-button {
+  padding: 15px 13px 15px 20px;
+  margin-right: 20px;
+  color: rgb(255, 255, 255);
+  font-family: "Open Sans";
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+  border-radius: 5px;
+  background: rgb(253, 110, 10);
+  border: none;
+}
+.header-contact-button {
+  padding: 15px 23px 15px 25px;
+  color: rgb(253, 110, 10);
+  font-family: "Open Sans";
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+  background-color: rgb(255, 248, 243);
+  box-sizing: border-box;
+  border: 1px solid rgb(253, 110, 10);
+  border-radius: 5px;
+}
+.header-contan-img {
+position: relative;
+top: 30px;
+left: 205px;
+}
